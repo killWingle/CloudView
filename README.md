@@ -1,0 +1,2 @@
+# CloudView
+4時間ほどで制作したPythonのプラウザです。pyinstallerを使ってEXE化もしています。
